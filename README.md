@@ -1,81 +1,43 @@
-# To-Supply-Leftover-Food-to-Poor-NM
+🥗 To Supply Leftover Food to Poor
+**Overview**
 
-📘 Project Overview
+FoodConnect is a Salesforce-based project aimed at collecting and distributing leftover food to underprivileged people. It connects donors, volunteers, and NGOs through a cloud platform to reduce food waste and hunger.
 
-To Supply Leftover Food to Poor is a Salesforce-based application designed to collect, manage, and distribute leftover food to underprivileged communities. This initiative helps reduce food waste while addressing hunger by connecting donors, volunteers, and NGOs through an integrated cloud platform.
+**Objectives**
 
-🧩 Objectives
+Streamline food collection and delivery.
 
-Streamline the food collection and distribution process.
+Manage donors, volunteers, and recipients in one system.
 
-Centralize donor, volunteer, and recipient information using Salesforce.
+Automate logistics and reporting.
 
-Automate logistics and volunteer assignments for faster delivery.
+Ensure food safety and scalability.
 
-Monitor and report on donation flows and food distribution.
+**Features**
 
-Ensure food safety and maintain quality standards.
+Custom Objects: Venue, Drop-Off Point, Task, Volunteer, Execution Details
 
-Scale operations to support multiple regions.
+Automation using Flows & Triggers
 
-⚙️ Features Implemented
+Reports & Dashboards for real-time tracking
 
-Custom Salesforce Objects: Venue, Drop-Off Point, Task, Volunteer, Execution Details.
+NGO User Profiles and secure data sharing
 
-Relationships: Lookup and Master-Detail relationships for data linkage.
+Custom Lightning App – FoodConnect
 
-Automation: Screen flows and triggers for record creation and management.
+**Technologies**
 
-Reports & Dashboards: Custom reports to visualize food collection and delivery metrics.
+Salesforce Developer Edition | Lightning App Builder | Flow Builder | Reports | Dashboards | Apex
 
-User Management: NGO profiles, public groups, and sharing rules for access control.
+**Team**
 
-Custom Lightning App: “FoodConnect” app for seamless navigation and monitoring.
-
-🧑‍💻 Technologies Used
-
-Platform: Salesforce (Developer Edition)
-
-Modules: Sales Cloud, Service Cloud, Marketing Cloud
-
-Tools: Lightning App Builder, Report Builder, Flow Builder, Developer Console
-
-🚀 How It Works
-
-Donors register food donations through the platform.
-
-Venues and drop-off points are recorded for logistics.
-
-Volunteers are automatically assigned to nearby locations.
-
-Reports and dashboards monitor distribution and performance.
-
-Sharing rules ensure data access based on distance and NGO groups.
-
-📊 Key Outcomes
-
-Improved coordination between donors and NGOs.
-
-Reduced food waste through timely distribution.
-
-Real-time visibility of donation status and volunteer activity.
-
-Scalable system supporting expansion to new areas.
-
-👩‍💼 Team Information
-
-Team ID: NM2025TMID01003
-Members:
-
+**Team ID**: NM2025TMID01003
+**Team Size** : 4
 Keerthi A 
-
 Mahavarshini M S 
-
 Rithika Sri S 
+Tamilselvi M
 
-Tamilselvi M 
+**Conclusion**
 
-
-🏁 Conclusion
-
-This project demonstrates how Salesforce can be leveraged beyond business CRM — as a social-impact platform that optimizes food distribution, promotes community welfare, and creates a sustainable solution to hunger and food wastage.
+FoodConnect demonstrates how Salesforce can create real social impact — reducing food wastage, connecting communities, and supporting a sustainable future.
