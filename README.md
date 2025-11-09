@@ -1,4 +1,4 @@
-🥗 **To Supply Leftover Food to Poor**
+🥗 **TO SUPPLY LEFTOVER FOOD TO POOR**
 **Overview**
 
 FoodConnect is a Salesforce-based project designed to collect and distribute leftover food to underprivileged people. It connects donors, volunteers, and NGOs through a unified cloud platform to reduce food waste and hunger.
