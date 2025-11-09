@@ -1,7 +1,7 @@
-🥗 To Supply Leftover Food to Poor
+🥗 **To Supply Leftover Food to Poor**
 **Overview**
 
-FoodConnect is a Salesforce-based project aimed at collecting and distributing leftover food to underprivileged people. It connects donors, volunteers, and NGOs through a cloud platform to reduce food waste and hunger.
+FoodConnect is a Salesforce-based project designed to collect and distribute leftover food to underprivileged people. It connects donors, volunteers, and NGOs through a unified cloud platform to reduce food waste and hunger.
 
 **Objectives**
 
@@ -17,27 +17,36 @@ Ensure food safety and scalability.
 
 Custom Objects: Venue, Drop-Off Point, Task, Volunteer, Execution Details
 
-Automation using Flows & Triggers
+Automation: Flows & Triggers for process management
 
-Reports & Dashboards for real-time tracking
+Reports & Dashboards: Real-time tracking of food distribution
 
-NGO User Profiles and secure data sharing
+User Management: NGO profiles and secure data sharing
 
-Custom Lightning App – FoodConnect
+Custom Lightning App: “FoodConnect” for seamless monitoring
 
-**Technologies**
+**Technologies Used**
 
 Salesforce Developer Edition | Lightning App Builder | Flow Builder | Reports | Dashboards | Apex
 
-**Team**
+**Team Details**
 
-**Team ID**: NM2025TMID01003
-**Team Size** : 4
-Keerthi A 
-Mahavarshini M S 
-Rithika Sri S 
+Team ID: NM2025TMID01003
+
+Team Size: 4
+
+Members:
+
+Keerthi A
+
+Mahavarshini M S
+
+Rithika Sri S
+
 Tamilselvi M
+
+
 
 **Conclusion**
 
-FoodConnect demonstrates how Salesforce can create real social impact — reducing food wastage, connecting communities, and supporting a sustainable future.
+FoodConnect demonstrates how Salesforce can be leveraged for social impact — reducing food wastage, connecting communities, and building a sustainable future.
