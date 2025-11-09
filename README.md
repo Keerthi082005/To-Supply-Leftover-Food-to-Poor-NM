@@ -28,6 +28,8 @@ Custom Lightning App: “FoodConnect” for seamless monitoring
 **Technologies Used**
 
 Salesforce Developer Edition | Lightning App Builder | Flow Builder | Reports | Dashboards | Apex
+## 🎥 Demo Video
+[▶️ Watch the Demo on Google Drive](https://drive.google.com/file/d/1cTaRXN4cnHniOLfzgiGIIp0SBJ8bNY_b/view?usp=sharing)
 
 **Team Details**
 
